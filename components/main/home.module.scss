@@ -1,0 +1,29 @@
+.homeimg1{
+    width: 1515px ;
+    height: 720px;
+}
+@media screen and (max-width : 768px){
+    .homeimg1{
+        width: auto ;
+        height: 768px;
+    }
+}
+
+@media screen and (max-width : 375px){
+    .homeimg1{
+        width: auto ;
+        height: 370px;
+    }
+}
+@media screen and (max-width : 360px){
+    .homeimg1{
+        width: auto ;
+        height: 360px;
+    }
+}
+@media screen and (max-width : 1280px){
+    .homeimg1{
+        width: auto ;
+        height: 1280px;
+    }
+}
