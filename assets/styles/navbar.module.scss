@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+.nav{
+    background-color:#FFE4E1 ;
+    font-family: 'Sriracha', cursive;
+
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+
+    // &:hover
+}
